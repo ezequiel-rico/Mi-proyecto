@@ -1,0 +1,32 @@
+/* comentario*/
+p{
+    color:#413456;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    line-height: 200%;
+}
+#titulo-principal{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+}
+.impares{
+    color: black; 
+    background-color: darkcyan; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+
+}
+a{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    background-color:#000;
+    
+}
+a:hover{
+    color: #000;
+    background-color: green;
+
+}
